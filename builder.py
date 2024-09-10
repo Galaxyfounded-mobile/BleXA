@@ -1,6 +1,6 @@
 # https://t.me/ExelaStealer ( offical telegram channel of the exela )
-# Coded by quicaxd
-# Builder of Exela Stealer
+# Coded by quicaxd, Modified by Galaxyfounded
+# Builder of BleXA Stealer
 # Thank you for choosing us, Good usages
 
 import os
@@ -11,7 +11,7 @@ import re
 
 try:
     # Set's the console title
-    ctypes.windll.kernel32.SetConsoleTitleW(f"Exela Stealer | Builder | {os.getenv('computername')}")
+    ctypes.windll.kernel32.SetConsoleTitleW(f"BleXA | Builder | {os.getenv('computername')}")
 except:
     pass
 
